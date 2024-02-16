@@ -41,7 +41,7 @@ nav {
   font-weight: 600;
   font-size: 1.4rem;
 }
-/* nav button */
+/* nav button for mobile screen*/
 .ham-menu {
   display: none;
 }
@@ -59,6 +59,7 @@ nav {
   transition: transform 0.4s ease-in;
   z-index: 999;
 }
+/* when the nav btn is clicked  */
 .ham-btn.clicked > span:nth-child(1) {
   transform: rotate(315deg) translateY(12px);
 }
@@ -103,6 +104,7 @@ nav {
   margin: 40px 0;
   max-width: 700px;
 }
+/* to give text gradient colors */
 .text-grad {
   background: linear-gradient(to right, #0FA6E9, #17B9EB, #1BC4EC, #22D3ED);
   -webkit-text-fill-color: transparent;
@@ -302,7 +304,7 @@ footer > div > img {
 }
 
 
-/* media queries */
+/* media queries for responsiveness across different screen sizes */
 @media (max-width: 1200px) {
   body {
     padding: 0 100px;
