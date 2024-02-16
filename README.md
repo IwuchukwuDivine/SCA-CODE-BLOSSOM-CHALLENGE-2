@@ -16,7 +16,7 @@ Throughout the development process, I prioritized responsiveness, implementing m
 
 ## Submission Details
 
-To submit my work, I've hosted my project on GitHub Pages, https://iwuchukwudivine.github.io/SCA-CODE-BLOSSOM-CHALLENGE-2/ and created a GitHub repository for the code. You can find the repository here().
+To submit my work, I've hosted my project on GitHub Pages, https://iwuchukwudivine.github.io/SCA-CODE-BLOSSOM-CHALLENGE-2/ and created a GitHub repository for the code. You can find the repository here(https://github.com/IwuchukwuDivine/SCA-CODE-BLOSSOM-CHALLENGE-2.git).
 
 In the repository, I've included detailed comments in my code to explain each section and any challenges I encountered during implementation.
 
